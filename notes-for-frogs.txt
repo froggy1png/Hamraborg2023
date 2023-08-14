@@ -4,10 +4,14 @@
 include the files you will need like assets/scene.gtfl ✔️
  
 - find out how to generate link for src:
-	- Assume it can come from file path like /home/usr/GitHub
+	- Assume it can come from file path like /home/usr/GitHub ✔️
+
 	- look how images are added to websites
 
 - research preferred hosting platform
+
+https://cdn.jsdelivr.net/gh/froggy1png/Hamraborg2023@main/Assets/Skeleton%20and%20Wheel%20of%20Fortune1.gltf
+
 - use either for location (references below)
 
 https://medium.com/chialab-open-source/build-your-location-based-augmented-reality-web-app-c2442e716564
